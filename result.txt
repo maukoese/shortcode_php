@@ -1,0 +1,11 @@
+string(4) "test"
+
+bool(false)
+
+string(10) "param >1< "
+
+string(19) "two par >abc<,#123#"
+
+string(12) "param >abc< "
+
+string(17) "two par >abc<,#1#"
