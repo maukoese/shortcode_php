@@ -4,5 +4,5 @@
 #
 # shortcode em PHP PURO
 #
-# See test.php file
-# Veja o arquivo test.php
+# See shortcode.class.php, test.php, result.txt files
+# Veja os arquivos shortcode.class.php, test.php, result.txt
