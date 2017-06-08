@@ -1,8 +1,8 @@
 # shortcode_php
 #
-#PURE PHP shortcode
+# PURE PHP shortcode
 #
-#shortcode em PHP PURO
+# shortcode em PHP PURO
 #
-#See test.php file
-#Veja o arquivo test.php
+# See test.php file
+# Veja o arquivo test.php
